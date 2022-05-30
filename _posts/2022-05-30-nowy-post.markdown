@@ -1,7 +1,7 @@
 ---
 title: Nowy post
 date: 2022-05-30 11:09:00 Z
-permalink: "/test-siteleaf//2022/05/30/nowy-post.html"
+permalink: "/test-siteleaf/2022/05/30/nowy-post.html"
 layout: default
 ---
 
