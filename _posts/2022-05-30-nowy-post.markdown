@@ -1,6 +1,7 @@
 ---
 title: Nowy post
 date: 2022-05-30 11:09:00 Z
+layout: default
 ---
 
 Ale heca! 
