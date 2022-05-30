@@ -24,3 +24,8 @@ plugins:
 sass:
   sass_dir: "./_sass"
   style: compressed
+menu_links:
+- name: About
+  link: "/about"
+- name: Home
+  link: "/"
