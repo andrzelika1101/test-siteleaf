@@ -19,3 +19,6 @@ github_username: jekyll
 theme: minima
 plugins:
 - jekyll-feed
+sass:
+  sass_dir: ./_sass
+  style: compressed
