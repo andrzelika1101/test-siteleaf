@@ -6,4 +6,15 @@
       </a>
     </div>
   </div>
+  <div class="row justify-content-center">
+    <div class="col-lg-4 col-md-5 col-sm-7 col-9 text-center">
+      <ul class="pl-3">
+        {% for menu_link in site.menu_links %}
+          <li class="d-inline mr-3">
+            <a href="{{ menu_link.link }}">{{ menu_link.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </header>
