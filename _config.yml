@@ -26,6 +26,6 @@ sass:
   style: compressed
 menu_links:
 - name: About
-  link: "/about"
+  link: https://andrzelika1101.github.io/test-siteleaf/about/
 - name: Home
-  link: "/"
+  link: https://andrzelika1101.github.io/test-siteleaf
