@@ -2,9 +2,6 @@
 title: Your awesome title!
 timezone: UTC
 collections:
-  links:
-    title: Links
-    output: false
   posts:
     title: Posts
     output: true
